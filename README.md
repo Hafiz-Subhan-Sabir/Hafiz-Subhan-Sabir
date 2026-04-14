@@ -33,10 +33,10 @@ BS Information Engineering Technology
 <td width="38%" valign="middle" align="center">
 
 <a href="https://hafiz-subhan-portfolio.vercel.app/" title="Open portfolio">
-  <img src="https://hafiz-subhan-portfolio.vercel.app/_next/image?url=%2Fprojects%2Fscript-to-video.png&w=640&q=75" alt="Featured product UI highlight" width="320" style="max-width: 100%; border-radius: 20px; border: 1px solid #E2E8F0; box-shadow: 0 16px 45px rgba(26, 27, 58, 0.12);" />
+  <img src="https://hafiz-subhan-portfolio.vercel.app/_next/image?url=%2Fport.png&amp;w=750&amp;q=75" alt="Hafiz Subhan" width="320" style="max-width: 100%; border-radius: 20px; border: 1px solid #E2E8F0; box-shadow: 0 16px 45px rgba(22, 101, 52, 0.12);" />
 </a>
 <br/>
-<sub><b>Spotlight:</b> Script → AI Video (portfolio)</sub>
+<sub><b>Spotlight:</b> Portfolio — AI‑powered full‑stack delivery</sub>
 
 </td>
 </tr>
@@ -288,3 +288,49 @@ BS Information Engineering Technology
 <div align="center">
   <sub><b>Premium UX, disciplined engineering, delivery you can trust in production.</b></sub>
 </div>
+
+<br/>
+
+## GitHub activity
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Contributions-226-15803d?style=for-the-badge&logo=github&logoColor=white&labelColor=ecfdf5" alt="Total contributions: 226" />
+  <img src="https://img.shields.io/badge/Current%20Streak-66-166534?style=for-the-badge&logo=fire&logoColor=white&labelColor=d9f99d" alt="Current streak: 66" />
+  <img src="https://img.shields.io/badge/Best%20Streak-120-14532d?style=for-the-badge&logo=git&logoColor=white&labelColor=bbf7d0" alt="Best streak: 120" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hafiz-Subhan-Sabir&amp;hide_border=true&amp;background=ecfdf5&amp;stroke=bbf7d0&amp;ring=22c55e&amp;fire=15803d&amp;currStreakLabel=14532d&amp;sideLabels=166534&amp;dates=166534&amp;currStreakNum=15803d&amp;sideNums=15803d" alt="GitHub streak stats" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Hafiz-Subhan-Sabir&amp;show_icons=true&amp;hide_border=true&amp;bg_color=ecfdf5&amp;title_color=14532d&amp;text_color=166534&amp;icon_color=15803d&amp;ring_color=22c55e&amp;include_all_commits=true" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafiz-Subhan-Sabir&amp;layout=compact&amp;hide_border=true&amp;bg_color=ecfdf5&amp;title_color=14532d&amp;text_color=166534" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hafiz-Subhan-Sabir&amp;custom_title=Contribution%20Activity&amp;bg_color=ffffff&amp;color=166534&amp;line=22c55e&amp;point=15803d&amp;area_color=bbf7d0&amp;area=true&amp;hide_border=true" alt="Contribution activity graph" />
+</p>
+
+<p align="center"><sub>Green theme: light surfaces (<code>#ecfdf5</code> / <code>#bbf7d0</code>) with deep green accents (<code>#14532d</code> / <code>#15803d</code> / <code>#166534</code>).</sub></p>
+
+<br/>
+
+## GitHub achievements
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Hafiz-Subhan-Sabir&amp;theme=flat&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;row=2&amp;margin-w=12&amp;margin-h=12"
+    alt="GitHub profile trophies and achievements"
+  />
+</p>
+
+<p align="center">
+  <sub>Includes contribution-based milestones (for example Quickdraw, Pull Shark, YOLO) as they appear on your GitHub profile.</sub>
+</p>
+
+<p align="center">
+  <b>Highlights:</b> Quickdraw · Pull Shark · YOLO
+  <br/>
+  <sub>See the full set on <a href="https://github.com/Hafiz-Subhan-Sabir">your GitHub profile</a>.</sub>
+</p>
