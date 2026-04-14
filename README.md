@@ -21,7 +21,7 @@
 <a href="https://hafiz-subhan-portfolio.vercel.app/" title="Open portfolio">
   <img
     align="right"
-    src="https://hafiz-subhan-portfolio.vercel.app/_next/image?url=%2Fport.png&amp;w=1080&amp;q=75"
+    src="[https://hafiz-subhan-portfolio.vercel.app/_next/image](https://hafiz-subhan-portfolio.vercel.app/_next/image?url=%2Fvector.png&w=48&q=75)"
     alt="Hafiz Subhan portrait"
     width="420"
     height="820"
