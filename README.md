@@ -1,33 +1,62 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&pause=1100&color=39FF14&center=true&vCenter=true&width=820&lines=AI%E2%80%91Powered+Full%E2%80%91Stack+Engineer;React+%2B+Next.js+%2B+TypeScript;Python+%2B+FastAPI+%2B+Secure+Systems;Premium+UI+%2B+Motion+%2B+Performance" alt="Headline" />
 
-### Hafiz Subhan
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&pause=1100&color=0F172A&center=true&vCenter=true&width=860&lines=AI%E2%80%91Powered+Full%E2%80%91Stack+Engineer;React+%2B+Next.js+%2B+TypeScript;Python+%2B+FastAPI+%2B+Secure+Auth;Premium+UI+%2B+Motion+%2B+Performance" alt="Animated headline" />
-<br/>
+**Full‑Stack Software Engineer** — AI‑integrated products, polished UX, secure systems, performance‑first engineering.
 
 <p>
-  <a href="https://hafiz-subhan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live-2563EB?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F172A" alt="Portfolio" /></a>
-  <a href="https://github.com/Hafiz-Subhan-Sabir"><img src="https://img.shields.io/badge/GitHub-Profile-0F172A?style=for-the-badge&logo=github&logoColor=white&labelColor=E5E7EB" alt="GitHub" /></a>
-  <a href="mailto:hafizsubhan909@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=F8FAFC" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/hafiz-subhan-soft/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0F172A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=E0E7FF" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Profile%20views-1244-39FF14?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000" alt="Profile views: 1244" />
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=Hafiz-Subhan-Sabir&label=Profile%20views&color=2563EB&style=flat-square&labelColor=F8FAFC" alt="Profile views" />
 
 </div>
 
 <br/>
 
-<a href="https://hafiz-subhan-portfolio.vercel.app/" title="Open portfolio">
-<img
-  src="https://hafiz-subhan-portfolio.vercel.app/_next/image?url=%2Fvector.png&amp;w=48&amp;q=75"
-  alt=""
-  width="180"
-  height="280"
-  style="vertical-align: middle; border-radius: 8px;"
-/>
+<table>
+<tr>
+<td width="58%" valign="top">
 
+<h1 align="left"><font color="#39FF14">Hafiz Subhan</font></h1>
+
+<h3 align="left"><font color="#000000">What I do</font></h3>
+
+<p align="left">
+  <font color="#111827">I ship end‑to‑end web products: solid UI architecture, motion where it earns its place (<b>GSAP</b>), secure auth (<b>JWT / RBAC</b>), and APIs (<b>FastAPI / Django / Flask</b>) with practical <b>LLM / CV</b> integrations when the product needs them.</font>
+</p>
+
+<h3 align="left"><font color="#000000">What I deliver</font></h3>
+
+<p align="left">
+  <font color="#111827">Production‑ready interfaces, clean architecture, performance‑minded UX, and dependable releases — from discovery to deployment.</font>
+</p>
+
+<p align="left">
+  <a href="https://hafiz-subhan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-LIVE-39FF14?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=000000" alt="Portfolio" /></a>
+  <a href="https://github.com/Hafiz-Subhan-Sabir"><img src="https://img.shields.io/badge/GitHub-PROFILE-000000?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=39FF14" alt="GitHub" /></a>
+  <a href="mailto:hafizsubhan909@gmail.com"><img src="https://img.shields.io/badge/Email-CONTACT-39FF14?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/hafiz-subhan-soft/"><img src="https://img.shields.io/badge/LinkedIn-CONNECT-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=39FF14" alt="LinkedIn" /></a>
+</p>
+
+</td>
+<td width="42%" valign="top" align="right">
+
+<a href="https://hafiz-subhan-portfolio.vercel.app/" title="Open portfolio">
+  <img
+    src="https://hafiz-subhan-portfolio.vercel.app/_next/image?url=%2Fvector.png&amp;w=1080&amp;q=75"
+    alt="Hafiz Subhan portrait"
+    width="380"
+    height="230"
+    loading="lazy"
+    decoding="async"
+    style="display: block; width: 380px; height: 230px; max-width: 100%; object-fit: cover; object-position: center 6%; border-radius: 24px; border: 1px solid rgba(229, 231, 235, 0.8); box-shadow: 0 0 0 1px rgba(57, 255, 20, 0.12);"
+  />
 </a>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 **About**  
 I ship end‑to‑end web products: solid UI architecture, motion where it earns its place (**GSAP**), secure auth (**JWT / RBAC**), and APIs (**FastAPI / Django / Flask**) with practical **LLM / CV** integrations when the product needs them.
