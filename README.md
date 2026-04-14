@@ -1,48 +1,55 @@
 <div align="center">
 
-### Hafiz Subhan
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&pause=1100&color=39FF14&center=true&vCenter=true&width=880&lines=AI%E2%80%91Powered+Full%E2%80%91Stack+Engineer;React+%2B+Next.js+%2B+TypeScript;Python+%2B+FastAPI+%2B+Secure+Systems;Premium+UI+%2B+Motion+%2B+Performance" alt="Animated headline" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&pause=1100&color=1A1B3A&center=true&vCenter=true&width=880&lines=AI%E2%80%91Powered+Full%E2%80%91Stack+Engineer;React+%2B+Next.js+%2B+TypeScript;Python+%2B+FastAPI+%2B+Secure+Systems;Premium+UI+%2B+Motion+%2B+Performance" alt="Animated headline" />
+<b>Full‑Stack Software Engineer</b> — AI‑integrated web products, polished UX, secure auth, and performance‑first engineering.
 
-**Full‑Stack Software Engineer** — AI‑integrated web products, polished UX, secure auth, and performance‑first engineering.
-
-<p>
-  <a href="https://hafiz-subhan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live-A31621?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1A1B3A"></a>
-  <a href="https://github.com/Hafiz-Subhan-Sabir"><img src="https://img.shields.io/badge/GitHub-Profile-1A1B3A?style=for-the-badge&logo=github&logoColor=white&labelColor=F1F5F9"></a>
-  <a href="mailto:hafizsubhan909@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-A31621?style=for-the-badge&logo=gmail&logoColor=white&labelColor=F8FAFC"></a>
-  <a href="https://www.linkedin.com/in/hafiz-subhan-soft/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1B3A"></a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=Hafiz-Subhan-Sabir&label=Profile%20views&color=A31621&style=flat-square&labelColor=F8FAFC" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Hafiz-Subhan-Sabir&label=Profile%20views&color=39FF14&style=for-the-badge&labelColor=000000" alt="Profile views" />
 
 </div>
 
 <br/>
 
-<table>
-<tr>
-<td width="62%" valign="top">
-
-**What I ship**  
-End‑to‑end product builds: strong UI architecture, **GSAP / motion** when it elevates the experience, **JWT + RBAC** auth, **FastAPI / Django / Flask** backends, and practical **LLM / CV** integrations.
-
-**Education**  
-BS Information Engineering Technology
-
-</td>
-<td width="38%" valign="middle" align="center">
-
-<a href="https://hafiz-subhan-portfolio.vercel.app/" title="Open portfolio">
-  <img src="https://hafiz-subhan-portfolio.vercel.app/_next/image?url=%2Fport.png&amp;w=750&amp;q=75" alt="Hafiz Subhan" width="320" style="max-width: 100%; border-radius: 20px; border: 1px solid #E2E8F0; box-shadow: 0 16px 45px rgba(22, 101, 52, 0.12);" />
+<a href="https://hafiz-subhan-portfolio.vercel.app/">
+  <img
+    align="right"
+    src="https://hafiz-subhan-portfolio.vercel.app/_next/image?url=%2Fport.png&amp;w=750&amp;q=75"
+    alt="Hafiz Subhan"
+    width="320"
+    style="height: 420px; object-fit: cover; object-position: top center; border-radius: 20px; border: 2px solid #39FF14; box-shadow: 0 0 28px rgba(57, 255, 20, 0.22);"
+  />
 </a>
-<br/>
-<sub><b>Spotlight:</b> Portfolio — AI‑powered full‑stack delivery</sub>
 
-</td>
-</tr>
-</table>
+<h1 align="left"><font color="#39FF14">Hafiz Subhan</font></h1>
+
+<h3 align="left"><font color="#000000">What I ship</font></h3>
+
+<p align="left">
+  <font color="#111827">End‑to‑end product builds: strong UI architecture, <b>GSAP / motion</b> when it elevates the experience, <b>JWT + RBAC</b> auth, <b>FastAPI / Django / Flask</b> backends, and practical <b>LLM / CV</b> integrations.</font>
+</p>
+
+<h3 align="left"><font color="#000000">What I deliver</font></h3>
+
+<p align="left">
+  <font color="#111827">Production‑ready interfaces, clean architecture, performance‑minded UX, and deployment‑aware engineering — from discovery to shipped releases.</font>
+</p>
+
+<p align="left"><font color="#374151"><b>Education:</b> BS Information Engineering Technology</font></p>
 
 <br/>
+
+<p align="left">
+  <a href="https://hafiz-subhan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-LIVE-39FF14?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=000000" alt="Portfolio" /></a>
+  <a href="https://github.com/Hafiz-Subhan-Sabir"><img src="https://img.shields.io/badge/GitHub-PROFILE-000000?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=39FF14" alt="GitHub profile" /></a>
+  <a href="mailto:hafizsubhan909@gmail.com"><img src="https://img.shields.io/badge/Email-CONTACT-39FF14?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/hafiz-subhan-soft/"><img src="https://img.shields.io/badge/LinkedIn-CONNECT-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=39FF14" alt="LinkedIn" /></a>
+</p>
+
+<p align="left"><sub><b>Spotlight:</b> <font color="#111827">Portfolio — AI‑powered full‑stack delivery</font></sub></p>
+
+<br clear="right"/>
+
+---
 
 ## Tech stack
 
@@ -51,40 +58,38 @@ BS Information Engineering Technology
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GSAP-motion-1A1B3A?style=flat-square&logo=greensock&logoColor=white&labelColor=E0F2FE" alt="GSAP" />
-  <img src="https://img.shields.io/badge/Auth-JWT%20%2F%20RBAC-1A1B3A?style=flat-square&logo=auth0&logoColor=white&labelColor=FEE2E2" alt="Auth" />
-  <img src="https://img.shields.io/badge/AI-LLM%20%2B%20CV-1A1B3A?style=flat-square&logo=openai&logoColor=white&labelColor=FDF2F8" alt="AI" />
-  <img src="https://img.shields.io/badge/Product-Dashboards%20%26%20Data%20Viz-1A1B3A?style=flat-square&logo=chartdotjs&logoColor=white&labelColor=ECFDF5" alt="Dashboards" />
+  <img src="https://img.shields.io/badge/GSAP-motion-000000?style=flat-square&logo=greensock&logoColor=39FF14&labelColor=39FF14" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Auth-JWT%20%2F%20RBAC-39FF14?style=flat-square&logo=auth0&logoColor=000000&labelColor=000000" alt="Auth" />
+  <img src="https://img.shields.io/badge/AI-LLM%20%2B%20CV-000000?style=flat-square&logo=openai&logoColor=39FF14&labelColor=39FF14" alt="AI" />
+  <img src="https://img.shields.io/badge/Product-Dashboards%20%26%20Data%20Viz-39FF14?style=flat-square&logo=chartdotjs&logoColor=000000&labelColor=000000" alt="Dashboards" />
 </p>
 
-<br/>
+---
 
 ## Project gallery
 
-<p align="center"><sub>Ordered to match my portfolio showcase · thumbnails load from the live site</sub></p>
+<p align="center"><sub><font color="#6B7280">Ordered like my portfolio showcase · tap a cover to open the projects section</font></sub></p>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 <a href="https://hafiz-subhan-portfolio.vercel.app/#projects">
-<img src="https://hafiz-subhan-portfolio.vercel.app/_next/image?url=%2Fprojects%2Fcar.png&w=1080&q=75" width="100%" style="max-width: 520px; border-radius: 16px; border: 1px solid #E2E8F0; box-shadow: 0 12px 34px rgba(26, 27, 58, 0.08);" alt="E‑commerce car website" />
+<img src="https://hafiz-subhan-portfolio.vercel.app/_next/image?url=%2Fprojects%2Fcar.png&amp;w=1080&amp;q=75" width="100%" style="max-width: 520px; border-radius: 16px; border: 1px solid #39FF14; box-shadow: 0 12px 34px rgba(0, 0, 0, 0.08);" alt="E‑commerce car website" />
 </a>
 
 ### E‑commerce car website  
-**Stack:** React · Next.js · TypeScript · payments‑ready UX  
-**Links:** [Portfolio](https://hafiz-subhan-portfolio.vercel.app/#projects) · [GitHub](https://github.com/Hafiz-Subhan-Sabir?tab=repositories)
+**Stack:** React · Next.js · TypeScript · payments‑ready UX
 
 </td>
 <td width="50%" valign="top">
 
 <a href="https://hafiz-subhan-portfolio.vercel.app/#projects">
-<img src="https://hafiz-subhan-portfolio.vercel.app/_next/image?url=%2Fprojects%2Fvegetable.jpg&w=1080&q=75" width="100%" style="max-width: 520px; border-radius: 16px; border: 1px solid #E2E8F0; box-shadow: 0 12px 34px rgba(26, 27, 58, 0.08);" alt="Fruit and vegetable recognition" />
+<img src="https://hafiz-subhan-portfolio.vercel.app/_next/image?url=%2Fprojects%2Fvegetable.jpg&amp;w=1080&amp;q=75" width="100%" style="max-width: 520px; border-radius: 16px; border: 1px solid #39FF14; box-shadow: 0 12px 34px rgba(0, 0, 0, 0.08);" alt="Fruit and vegetable recognition" />
 </a>
 
 ### Fruit & vegetable recognition  
-**Stack:** Python · TensorFlow · PyTorch · CV / ML pipeline  
-**Links:** [Portfolio](https://hafiz-subhan-portfolio.vercel.app/#projects) · [GitHub](https://github.com/Hafiz-Subhan-Sabir?tab=repositories)
+**Stack:** Python · TensorFlow · PyTorch · CV / ML pipeline
 
 </td>
 </tr>
@@ -95,23 +100,21 @@ BS Information Engineering Technology
 <td width="50%" valign="top">
 
 <a href="https://hafiz-subhan-portfolio.vercel.app/#projects">
-<img src="https://hafiz-subhan-portfolio.vercel.app/_next/image?url=%2Fprojects%2Fmovie.png&w=1080&q=75" width="100%" style="max-width: 520px; border-radius: 16px; border: 1px solid #E2E8F0; box-shadow: 0 12px 34px rgba(26, 27, 58, 0.08);" alt="Movie listing web app" />
+<img src="https://hafiz-subhan-portfolio.vercel.app/_next/image?url=%2Fprojects%2Fmovie.png&amp;w=1080&amp;q=75" width="100%" style="max-width: 520px; border-radius: 16px; border: 1px solid #39FF14; box-shadow: 0 12px 34px rgba(0, 0, 0, 0.08);" alt="Movie listing web app" />
 </a>
 
 ### Movie listing web app  
-**Stack:** React · Tailwind · discovery UX  
-**Links:** [Portfolio](https://hafiz-subhan-portfolio.vercel.app/#projects) · [GitHub](https://github.com/Hafiz-Subhan-Sabir?tab=repositories)
+**Stack:** React · Tailwind · discovery UX
 
 </td>
 <td width="50%" valign="top">
 
 <a href="https://hafiz-subhan-portfolio.vercel.app/#projects">
-<img src="https://hafiz-subhan-portfolio.vercel.app/_next/image?url=%2Fprojects%2Feye.webp&w=1080&q=75" width="100%" style="max-width: 520px; border-radius: 16px; border: 1px solid #E2E8F0; box-shadow: 0 12px 34px rgba(26, 27, 58, 0.08);" alt="Real-time eye scanning unlock" />
+<img src="https://hafiz-subhan-portfolio.vercel.app/_next/image?url=%2Fprojects%2Feye.webp&amp;w=1080&amp;q=75" width="100%" style="max-width: 520px; border-radius: 16px; border: 1px solid #39FF14; box-shadow: 0 12px 34px rgba(0, 0, 0, 0.08);" alt="Real-time eye scanning unlock" />
 </a>
 
 ### Real‑time eye scanning unlock  
-**Stack:** Auth · JWT/RBAC · security‑first UX  
-**Links:** [Portfolio](https://hafiz-subhan-portfolio.vercel.app/#projects) · [GitHub](https://github.com/Hafiz-Subhan-Sabir?tab=repositories)
+**Stack:** Auth · JWT/RBAC · security‑first UX
 
 </td>
 </tr>
@@ -122,23 +125,21 @@ BS Information Engineering Technology
 <td width="50%" valign="top">
 
 <a href="https://hafiz-subhan-portfolio.vercel.app/#projects">
-<img src="https://hafiz-subhan-portfolio.vercel.app/_next/image?url=%2Fprojects%2Fpet.png&w=640&q=75" width="100%" style="max-width: 520px; border-radius: 16px; border: 1px solid #E2E8F0; box-shadow: 0 12px 34px rgba(26, 27, 58, 0.08);" alt="Pet adoption platform" />
+<img src="https://hafiz-subhan-portfolio.vercel.app/_next/image?url=%2Fprojects%2Fpet.png&amp;w=640&amp;q=75" width="100%" style="max-width: 520px; border-radius: 16px; border: 1px solid #39FF14; box-shadow: 0 12px 34px rgba(0, 0, 0, 0.08);" alt="Pet adoption platform" />
 </a>
 
 ### Pet adoption platform  
-**Stack:** Full product UI · forms · dashboards  
-**Links:** [Portfolio](https://hafiz-subhan-portfolio.vercel.app/#projects) · [GitHub](https://github.com/Hafiz-Subhan-Sabir?tab=repositories)
+**Stack:** Full product UI · forms · dashboards
 
 </td>
 <td width="50%" valign="top">
 
 <a href="https://hafiz-subhan-portfolio.vercel.app/#projects">
-<img src="https://hafiz-subhan-portfolio.vercel.app/_next/image?url=%2Fprojects%2Ffood.webp&w=640&q=75" width="100%" style="max-width: 520px; border-radius: 16px; border: 1px solid #E2E8F0; box-shadow: 0 12px 34px rgba(26, 27, 58, 0.08);" alt="Food ordering restaurant website" />
+<img src="https://hafiz-subhan-portfolio.vercel.app/_next/image?url=%2Fprojects%2Ffood.webp&amp;w=640&amp;q=75" width="100%" style="max-width: 520px; border-radius: 16px; border: 1px solid #39FF14; box-shadow: 0 12px 34px rgba(0, 0, 0, 0.08);" alt="Food ordering restaurant website" />
 </a>
 
 ### Food ordering (restaurant)  
-**Stack:** React dashboard UX · dark premium UI  
-**Links:** [Portfolio](https://hafiz-subhan-portfolio.vercel.app/#projects) · [GitHub](https://github.com/Hafiz-Subhan-Sabir?tab=repositories)
+**Stack:** React dashboard UX · dark premium UI
 
 </td>
 </tr>
@@ -149,23 +150,21 @@ BS Information Engineering Technology
 <td width="50%" valign="top">
 
 <a href="https://hafiz-subhan-portfolio.vercel.app/#projects">
-<img src="https://hafiz-subhan-portfolio.vercel.app/_next/image?url=%2Fprojects%2Ferp.jpg&w=640&q=75" width="100%" style="max-width: 520px; border-radius: 16px; border: 1px solid #E2E8F0; box-shadow: 0 12px 34px rgba(26, 27, 58, 0.08);" alt="ERP system" />
+<img src="https://hafiz-subhan-portfolio.vercel.app/_next/image?url=%2Fprojects%2Ferp.jpg&amp;w=640&amp;q=75" width="100%" style="max-width: 520px; border-radius: 16px; border: 1px solid #39FF14; box-shadow: 0 12px 34px rgba(0, 0, 0, 0.08);" alt="ERP system" />
 </a>
 
 ### ERP system  
-**Stack:** Enterprise modules · architecture · dashboards  
-**Links:** [Portfolio](https://hafiz-subhan-portfolio.vercel.app/#projects) · [GitHub](https://github.com/Hafiz-Subhan-Sabir?tab=repositories)
+**Stack:** Enterprise modules · architecture · dashboards
 
 </td>
 <td width="50%" valign="top">
 
 <a href="https://hafiz-subhan-portfolio.vercel.app/#projects">
-<img src="https://hafiz-subhan-portfolio.vercel.app/_next/image?url=%2Fprojects%2Fai-interview.png&w=640&q=75" width="100%" style="max-width: 520px; border-radius: 16px; border: 1px solid #E2E8F0; box-shadow: 0 12px 34px rgba(26, 27, 58, 0.08);" alt="AI Interview Simulator" />
+<img src="https://hafiz-subhan-portfolio.vercel.app/_next/image?url=%2Fprojects%2Fai-interview.png&amp;w=640&amp;q=75" width="100%" style="max-width: 520px; border-radius: 16px; border: 1px solid #39FF14; box-shadow: 0 12px 34px rgba(0, 0, 0, 0.08);" alt="AI Interview Simulator" />
 </a>
 
 ### AI Interview Simulator  
-**Stack:** TypeScript · AI product UX  
-**Links:** [Portfolio](https://hafiz-subhan-portfolio.vercel.app/#projects) · [**Repository**](https://github.com/Hafiz-Subhan-Sabir/Ai-Interview-Simulator)
+**Stack:** TypeScript · AI product UX
 
 </td>
 </tr>
@@ -176,23 +175,21 @@ BS Information Engineering Technology
 <td width="50%" valign="top">
 
 <a href="https://hafiz-subhan-portfolio.vercel.app/#projects">
-<img src="https://hafiz-subhan-portfolio.vercel.app/_next/image?url=%2Fprojects%2Fscript-to-video.png&w=640&q=75" width="100%" style="max-width: 520px; border-radius: 16px; border: 1px solid #E2E8F0; box-shadow: 0 12px 34px rgba(26, 27, 58, 0.08);" alt="Script to AI video generator" />
+<img src="https://hafiz-subhan-portfolio.vercel.app/_next/image?url=%2Fprojects%2Fscript-to-video.png&amp;w=640&amp;q=75" width="100%" style="max-width: 520px; border-radius: 16px; border: 1px solid #39FF14; box-shadow: 0 12px 34px rgba(0, 0, 0, 0.08);" alt="Script to AI video generator" />
 </a>
 
 ### Script → AI video generator  
-**Stack:** AI workflow UI · media tooling  
-**Links:** [Portfolio](https://hafiz-subhan-portfolio.vercel.app/#projects) · [GitHub](https://github.com/Hafiz-Subhan-Sabir?tab=repositories)
+**Stack:** AI workflow UI · media tooling
 
 </td>
 <td width="50%" valign="top">
 
 <a href="https://hafiz-subhan-portfolio.vercel.app/#projects">
-<img src="https://hafiz-subhan-portfolio.vercel.app/_next/image?url=%2Fprojects%2Fhospital-management.png&w=640&q=75" width="100%" style="max-width: 520px; border-radius: 16px; border: 1px solid #E2E8F0; box-shadow: 0 12px 34px rgba(26, 27, 58, 0.08);" alt="Hospital management system" />
+<img src="https://hafiz-subhan-portfolio.vercel.app/_next/image?url=%2Fprojects%2Fhospital-management.png&amp;w=640&amp;q=75" width="100%" style="max-width: 520px; border-radius: 16px; border: 1px solid #39FF14; box-shadow: 0 12px 34px rgba(0, 0, 0, 0.08);" alt="Hospital management system" />
 </a>
 
 ### Hospital management system  
-**Stack:** Healthcare workflows · admin systems  
-**Links:** [Portfolio](https://hafiz-subhan-portfolio.vercel.app/#projects) · [GitHub](https://github.com/Hafiz-Subhan-Sabir?tab=repositories)
+**Stack:** Healthcare workflows · admin systems
 
 </td>
 </tr>
@@ -203,23 +200,21 @@ BS Information Engineering Technology
 <td width="50%" valign="top">
 
 <a href="https://hafiz-subhan-portfolio.vercel.app/#projects">
-<img src="https://hafiz-subhan-portfolio.vercel.app/_next/image?url=%2Fprojects%2Ftic-tac-toe.png&w=640&q=75" width="100%" style="max-width: 520px; border-radius: 16px; border: 1px solid #E2E8F0; box-shadow: 0 12px 34px rgba(26, 27, 58, 0.08);" alt="Tic Tac Toe game" />
+<img src="https://hafiz-subhan-portfolio.vercel.app/_next/image?url=%2Fprojects%2Ftic-tac-toe.png&amp;w=640&amp;q=75" width="100%" style="max-width: 520px; border-radius: 16px; border: 1px solid #39FF14; box-shadow: 0 12px 34px rgba(0, 0, 0, 0.08);" alt="Tic Tac Toe game" />
 </a>
 
 ### Tic Tac Toe  
-**Stack:** React / UI · game logic  
-**Links:** [Portfolio](https://hafiz-subhan-portfolio.vercel.app/#projects) · [GitHub](https://github.com/Hafiz-Subhan-Sabir?tab=repositories)
+**Stack:** React / UI · game logic
 
 </td>
 <td width="50%" valign="top">
 
 <a href="https://hafiz-subhan-portfolio.vercel.app/#projects">
-<img src="https://hafiz-subhan-portfolio.vercel.app/_next/image?url=%2Fprojects%2Fbubble-game.jpg&w=640&q=75" width="100%" style="max-width: 520px; border-radius: 16px; border: 1px solid #E2E8F0; box-shadow: 0 12px 34px rgba(26, 27, 58, 0.08);" alt="Bubble game" />
+<img src="https://hafiz-subhan-portfolio.vercel.app/_next/image?url=%2Fprojects%2Fbubble-game.jpg&amp;w=640&amp;q=75" width="100%" style="max-width: 520px; border-radius: 16px; border: 1px solid #39FF14; box-shadow: 0 12px 34px rgba(0, 0, 0, 0.08);" alt="Bubble game" />
 </a>
 
 ### Bubble game  
-**Stack:** JavaScript · interactive UI  
-**Links:** [Portfolio](https://hafiz-subhan-portfolio.vercel.app/#projects) · [**Repository**](https://github.com/Hafiz-Subhan-Sabir/Bubble-Game-)
+**Stack:** JavaScript · interactive UI
 
 </td>
 </tr>
@@ -230,48 +225,27 @@ BS Information Engineering Technology
 <td width="50%" valign="top">
 
 <a href="https://hafiz-subhan-portfolio.vercel.app/#projects">
-<img src="https://hafiz-subhan-portfolio.vercel.app/_next/image?url=%2Fprojects%2Ffeedback-portal.png&w=640&q=75" width="100%" style="max-width: 520px; border-radius: 16px; border: 1px solid #E2E8F0; box-shadow: 0 12px 34px rgba(26, 27, 58, 0.08);" alt="Feedback management app" />
+<img src="https://hafiz-subhan-portfolio.vercel.app/_next/image?url=%2Fprojects%2Ffeedback-portal.png&amp;w=640&amp;q=75" width="100%" style="max-width: 520px; border-radius: 16px; border: 1px solid #39FF14; box-shadow: 0 12px 34px rgba(0, 0, 0, 0.08);" alt="Feedback management app" />
 </a>
 
 ### Feedback management app  
-**Stack:** Dashboards · analytics · admin UX  
-**Links:** [Portfolio](https://hafiz-subhan-portfolio.vercel.app/#projects) · [GitHub](https://github.com/Hafiz-Subhan-Sabir?tab=repositories)
+**Stack:** Dashboards · analytics · admin UX
 
 </td>
 <td width="50%" valign="top">
 
 <a href="https://hafiz-subhan-portfolio.vercel.app/#projects">
-<img src="https://hafiz-subhan-portfolio.vercel.app/_next/image?url=%2Fprojects%2Fexpense-tracker.png&w=640&q=75" width="100%" style="max-width: 520px; border-radius: 16px; border: 1px solid #E2E8F0; box-shadow: 0 12px 34px rgba(26, 27, 58, 0.08);" alt="Expense tracker" />
+<img src="https://hafiz-subhan-portfolio.vercel.app/_next/image?url=%2Fprojects%2Fexpense-tracker.png&amp;w=640&amp;q=75" width="100%" style="max-width: 520px; border-radius: 16px; border: 1px solid #39FF14; box-shadow: 0 12px 34px rgba(0, 0, 0, 0.08);" alt="Expense tracker" />
 </a>
 
 ### Expense tracker  
-**Stack:** React · charts · data entry UX  
-**Links:** [Portfolio](https://hafiz-subhan-portfolio.vercel.app/#projects) · [GitHub](https://github.com/Hafiz-Subhan-Sabir?tab=repositories)
+**Stack:** React · charts · data entry UX
 
 </td>
 </tr>
 </table>
 
-<p align="center"><a href="https://github.com/Hafiz-Subhan-Sabir?tab=repositories"><b>View all repositories →</b></a></p>
-
-<br/>
-
-## GitHub snapshot
-
-<p align="center">
-  <img height="172" src="https://github-readme-stats.vercel.app/api?username=Hafiz-Subhan-Sabir&show_icons=true&hide_border=true&bg_color=F8FAFC&title_color=1A1B3A&text_color=334155&icon_color=A31621&ring_color=0EA5E9" alt="GitHub stats" />
-  <img height="172" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafiz-Subhan-Sabir&layout=compact&hide_border=true&bg_color=F8FAFC&title_color=1A1B3A&text_color=334155" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hafiz-Subhan-Sabir&hide_border=true&background=F8FAFC&stroke=E2E8F0&ring=A31621&fire=F43F5E&currStreakLabel=1A1B3A&sideLabels=1A1B3A&dates=64748B" alt="Streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hafiz-Subhan-Sabir&theme=flat&no-frame=true&row=1&column=7&margin-w=10" alt="Trophies" />
-</p>
-
-<br/>
+---
 
 ## Timeline
 
@@ -283,10 +257,10 @@ BS Information Engineering Technology
 | **2023** | Backend foundations — Python frameworks, ORM, security basics |
 | **2022** | Web fundamentals + debugging + systems thinking |
 
-<br/>
+---
 
 <div align="center">
-  <sub><b>Premium UX, disciplined engineering, delivery you can trust in production.</b></sub>
+  <sub><font color="#39FF14"><b>Neon clarity. Black discipline. Ship with confidence.</b></font></sub>
 </div>
 
 <br/>
@@ -312,25 +286,18 @@ BS Information Engineering Technology
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hafiz-Subhan-Sabir&amp;custom_title=Contribution%20Activity&amp;bg_color=ffffff&amp;color=166534&amp;line=22c55e&amp;point=15803d&amp;area_color=bbf7d0&amp;area=true&amp;hide_border=true" alt="Contribution activity graph" />
 </p>
 
-<p align="center"><sub>Green theme: light surfaces (<code>#ecfdf5</code> / <code>#bbf7d0</code>) with deep green accents (<code>#14532d</code> / <code>#15803d</code> / <code>#166534</code>).</sub></p>
+<p align="center"><sub>Headline numbers above are <b>static badges</b> you control. Charts reflect <b>live GitHub data</b> and may differ — update badges when you want them to stay truthful.</sub></p>
 
-<br/>
+---
 
 ## GitHub achievements
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Hafiz-Subhan-Sabir&amp;theme=flat&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;row=2&amp;margin-w=12&amp;margin-h=12"
-    alt="GitHub profile trophies and achievements"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=Hafiz-Subhan-Sabir&amp;theme=flat&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;row=2&amp;margin-w=12&amp;margin-h=12" alt="GitHub profile trophies and achievements" />
 </p>
 
 <p align="center">
-  <sub>Includes contribution-based milestones (for example Quickdraw, Pull Shark, YOLO) as they appear on your GitHub profile.</sub>
-</p>
-
-<p align="center">
-  <b>Highlights:</b> Quickdraw · Pull Shark · YOLO
+  <b>Highlights:</b> Quickdraw · Pull Shark · YOLO  
   <br/>
-  <sub>See the full set on <a href="https://github.com/Hafiz-Subhan-Sabir">your GitHub profile</a>.</sub>
+  <sub>Full list on <a href="https://github.com/Hafiz-Subhan-Sabir">your GitHub profile</a>.</sub>
 </p>
