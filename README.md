@@ -1,73 +1,44 @@
+<!-- README images live in: profile-media/ (same repo as this README) -->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=22&pause=1100&color=22D3EE&center=true&vCenter=true&width=900&lines=Hafiz+Subhan;AI%E2%80%91Powered+Full%E2%80%91Stack+Engineer;React+%2B+Next.js+%2B+TypeScript;Python+%2B+FastAPI+%2B+Secure+Auth;Premium+UI+%2B+Motion+%2B+Performance" alt="Animated headline" />
+### Hafiz Subhan
 
-<img src="PORTRAIT_IMAGE_URL" alt="Hafiz Subhan" width="240" style="border-radius: 28px; border: 1px solid rgba(167,139,250,.35); box-shadow: 0 18px 60px rgba(2,6,23,.55); max-width: 92%;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&pause=1100&color=0F172A&center=true&vCenter=true&width=860&lines=AI%E2%80%91Powered+Full%E2%80%91Stack+Engineer;React+%2B+Next.js+%2B+TypeScript;Python+%2B+FastAPI+%2B+Secure+Auth;Premium+UI+%2B+Motion+%2B+Performance" alt="Animated headline" />
 
-<br/>
-
-<sub><b>Full‑Stack Software Engineer</b> — AI‑integrated web products with <b>React</b>, <b>Next.js</b>, <b>TypeScript</b>, and <b>Python</b>.<br/>
-Smooth UX, secure auth, and performance‑first engineering.</sub>
-
-<br/><br/>
-
-<a href="https://hafiz-subhan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live-070B12?style=for-the-badge&logo=vercel&logoColor=white&labelColor=22D3EE" alt="Portfolio"></a>
-<a href="https://github.com/Hafiz-Subhan-Sabir"><img src="https://img.shields.io/badge/GitHub-Profile-070B12?style=for-the-badge&logo=github&logoColor=white&labelColor=A78BFA" alt="GitHub"></a>
-<a href="mailto:REPLACE_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-070B12?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FB7185" alt="Email"></a>
-<a href="REPLACE_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-070B12?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=38BDF8" alt="LinkedIn"></a>
+<sub><b>Full‑Stack Software Engineer</b> — AI‑integrated products, polished UX, secure systems, performance‑first delivery.</sub>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Hafiz-Subhan-Sabir&label=Profile%20views&color=22d3ee&style=for-the-badge" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=Hafiz-Subhan-Sabir&label=Profile%20views&color=2563EB&style=flat-square&labelColor=F8FAFC" alt="Profile views" />
 
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://hafiz-subhan-portfolio.vercel.app/opengraph-image" alt="Portfolio preview" width="780" style="border-radius: 18px; border: 1px solid rgba(148,163,184,.25); max-width: 95%;" />
-  <br/>
-  <sub>Live portfolio preview (OG image). Remove this block if the image does not load.</sub>
-</div>
-
-<br/>
-
-## Signature stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,django,flask,fastapi,postgresql,mysql,git,github,docker,vercel,linux" alt="Core skills" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GSAP-premium_motion-070B12?style=for-the-badge&logo=greensock&logoColor=white&labelColor=FB7185" alt="GSAP">
-  <img src="https://img.shields.io/badge/Security-JWT_%2F_RBAC-070B12?style=for-the-badge&logo=auth0&logoColor=white&labelColor=22C55E" alt="Security">
-  <img src="https://img.shields.io/badge/AI-LLM_Integrations-070B12?style=for-the-badge&logo=openai&logoColor=white&labelColor=A78BFA" alt="AI">
-  <img src="https://img.shields.io/badge/APIs-REST_%2F_Integrations-070B12?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=22D3EE" alt="APIs">
-</p>
-
-<br/>
-
-## About me
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-**What I build**
+**What I do**  
+Ship end‑to‑end web products: strong UI architecture, GSAP‑level motion when it matters, secure auth (**JWT / RBAC**), APIs (**FastAPI / Django / Flask**), and practical **LLM / AI** features.
 
-- Production **dashboards**, **e‑commerce**, and portfolio-grade experiences  
-- **Auth** flows with **JWT + RBAC**, clean API boundaries, maintainable architecture  
-- **Payments & integrations** without sacrificing performance or accessibility  
+**Education**  
+BS Information Engineering Technology
+
+<p>
+  <a href="https://hafiz-subhan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white&labelColor=F8FAFC"></a>
+  <a href="https://github.com/Hafiz-Subhan-Sabir"><img src="https://img.shields.io/badge/GitHub-Profile-0F172A?style=for-the-badge&logo=github&logoColor=white&labelColor=F8FAFC"></a>
+</p>
+<p>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-F43F5E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=F8FAFC"></a>
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=F8FAFC"></a>
+</p>
 
 </td>
-<td width="50%" valign="top">
+<td width="40%" valign="middle" align="center">
 
-**How I think**
-
-- **Frontend craft:** layout systems, **GSAP** motion, scroll UX, performance tuning  
-- **Backend craft:** Python (**FastAPI / Django / Flask**), secure patterns, pragmatic debugging  
-- **AI craft:** LLM integrations, prompt workflows, data/ML pipelines when the product needs them  
-- **Education:** BS Information Engineering Technology  
+<img src="profile-media/portrait.png" alt="Hafiz Subhan" width="300" style="max-width: 100%; border-radius: 22px; border: 1px solid #E2E8F0; box-shadow: 0 14px 40px rgba(15, 23, 42, 0.10);" />
 
 </td>
 </tr>
@@ -75,83 +46,156 @@ Smooth UX, secure auth, and performance‑first engineering.</sub>
 
 <br/>
 
-## Featured projects
+## Tech stack
 
-<table>
-<tr>
-<th align="left">Project</th>
-<th align="left">Stack</th>
-<th align="left">Link</th>
-</tr>
-<tr>
-<td><b>AI‑Powered Portfolio</b></td>
-<td>Next.js · Tailwind · GSAP · FastAPI</td>
-<td><a href="https://hafiz-subhan-portfolio.vercel.app/">Live</a></td>
-</tr>
-<tr>
-<td><b>E‑commerce Car Website</b></td>
-<td>React · Next.js · TypeScript · Payments</td>
-<td><i>add demo/repo</i></td>
-</tr>
-<tr>
-<td><b>Real‑Time Vegetable Detection</b></td>
-<td>Python · CV/ML · Training pipeline</td>
-<td><i>add demo/repo</i></td>
-</tr>
-<tr>
-<td><b>Movie Website</b></td>
-<td>React · Tailwind · Layout systems</td>
-<td><i>add demo/repo</i></td>
-</tr>
-<tr>
-<td><b>Real‑Time Eye Scanning Unlock</b></td>
-<td>Auth · JWT/RBAC · System design</td>
-<td><i>add demo/repo</i></td>
-</tr>
-<tr>
-<td><b>AI Interview Simulator</b></td>
-<td>TypeScript</td>
-<td><a href="https://github.com/Hafiz-Subhan-Sabir/Ai-Interview-Simulator">GitHub</a></td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,django,flask,fastapi,postgresql,mysql,git,github,docker,vercel,linux" alt="Tech stack" />
+</p>
 
-<p align="center"><a href="https://github.com/Hafiz-Subhan-Sabir?tab=repositories"><b>Explore all repositories →</b></a></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/GSAP-motion-0F172A?style=flat-square&logo=greensock&logoColor=white&labelColor=E0F2FE" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Auth-JWT%20%2F%20RBAC-0F172A?style=flat-square&logo=auth0&logoColor=white&labelColor=EEF2FF" alt="Auth" />
+  <img src="https://img.shields.io/badge/AI-LLM%20%2F+CV-0F172A?style=flat-square&logo=openai&logoColor=white&labelColor=FDF2F8" alt="AI" />
+  <img src="https://img.shields.io/badge/Dashboards-Data+Viz-0F172A?style=flat-square&logo=chartdotjs&logoColor=white&labelColor=ECFDF5" alt="Dashboards" />
+</p>
 
 <br/>
 
-## GitHub highlights
+## Signature project
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Hafiz-Subhan-Sabir&show_icons=true&hide_border=true&bg_color=070B12&title_color=22D3EE&icon_color=A78BFA&text_color=E5E7EB&border_radius=12" alt="GitHub stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafiz-Subhan-Sabir&layout=compact&hide_border=true&bg_color=070B12&title_color=22D3EE&text_color=E5E7EB&border_radius=12" alt="Top languages">
+  <a href="https://hafiz-subhan-portfolio.vercel.app/" title="Open portfolio">
+    <img src="profile-media/script-to-video.png" alt="AI-powered portfolio / product storytelling" width="92%" style="max-width: 980px; border-radius: 18px; border: 1px solid #E2E8F0; box-shadow: 0 16px 50px rgba(15, 23, 42, 0.12);" />
+  </a>
+</p>
+<p align="center"><sub><b>AI‑Powered Portfolio</b> — Next.js · Tailwind · GSAP · FastAPI · live site above</sub></p>
+
+<br/>
+
+## Featured builds
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+<a href="https://hafiz-subhan-portfolio.vercel.app/"><img src="profile-media/car-dealership.png" width="100%" style="max-width: 420px; border-radius: 16px; border: 1px solid #E2E8F0;" alt="Car dealership UI" /></a>
+
+**Car dealership platform**  
+React · Next.js · TypeScript · payments‑ready UX  
+`demo` · `repo`
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<img src="profile-media/vegetable-recognition.png" width="100%" style="max-width: 420px; border-radius: 16px; border: 1px solid #E2E8F0;" alt="Fruit and vegetable recognition" />
+
+**Fruit & vegetable recognition**  
+Python · CV/ML · training → inference workflows  
+`demo` · `repo`
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td width="50%" valign="top" align="center">
+
+<img src="profile-media/movie-app.png" width="100%" style="max-width: 420px; border-radius: 16px; border: 1px solid #E2E8F0;" alt="Movie listing app" />
+
+**Movie listing web app**  
+React · Tailwind · layout + discovery UX  
+`demo` · `repo`
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<img src="profile-media/eye-scan.png" width="100%" style="max-width: 420px; border-radius: 16px; border: 1px solid #E2E8F0;" alt="Eye scanning system" />
+
+**Real‑time eye scanning / unlock flow**  
+Auth · JWT/RBAC · security‑first design  
+`demo` · `repo`
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td width="50%" valign="top" align="center">
+
+<img src="profile-media/ai-interview.png" width="100%" style="max-width: 420px; border-radius: 16px; border: 1px solid #E2E8F0;" alt="AI Interview" />
+
+**AI Interview Simulator**  
+TypeScript · AI product UX  
+<a href="https://github.com/Hafiz-Subhan-Sabir/Ai-Interview-Simulator"><b>Repository →</b></a>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<img src="profile-media/pet-adoption.png" width="100%" style="max-width: 420px; border-radius: 16px; border: 1px solid #E2E8F0;" alt="Pet adoption platform" />
+
+**Pet adoption platform**  
+Full product UI · forms · dashboards  
+`demo` · `repo`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## More projects
+
+<table>
+<tr>
+<td width="25%" valign="top" align="center"><img src="profile-media/food-ordering.png" width="100%" style="border-radius: 14px; border: 1px solid #E2E8F0;" /><br/><sub><b>Food ordering</b><br/>`links`</sub></td>
+<td width="25%" valign="top" align="center"><img src="profile-media/erp.png" width="100%" style="border-radius: 14px; border: 1px solid #E2E8F0;" /><br/><sub><b>ERP system</b><br/>`links`</sub></td>
+<td width="25%" valign="top" align="center"><img src="profile-media/feedback-portal.png" width="100%" style="border-radius: 14px; border: 1px solid #E2E8F0;" /><br/><sub><b>Feedback portal</b><br/>`links`</sub></td>
+<td width="25%" valign="top" align="center"><img src="profile-media/expense-tracker.png" width="100%" style="border-radius: 14px; border: 1px solid #E2E8F0;" /><br/><sub><b>Expense tracker</b><br/>`links`</sub></td>
+</tr>
+<tr><td colspan="4"><br/></td></tr>
+<tr>
+<td width="25%" valign="top" align="center"><img src="profile-media/tic-tac-toe.png" width="100%" style="border-radius: 14px; border: 1px solid #E2E8F0;" /><br/><sub><b>Tic Tac Toe</b><br/>`links`</sub></td>
+<td width="25%" valign="top" align="center"><img src="profile-media/bubble-game.png" width="100%" style="border-radius: 14px; border: 1px solid #E2E8F0;" /><br/><sub><b>Bubble game</b><br/>`links`</sub></td>
+<td width="25%" valign="top" align="center"></td>
+<td width="25%" valign="top" align="center"></td>
+</tr>
+</table>
+
+<p align="center"><a href="https://github.com/Hafiz-Subhan-Sabir?tab=repositories"><b>All repositories →</b></a></p>
+
+<br/>
+
+## GitHub snapshot
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hafiz-Subhan-Sabir&show_icons=true&hide_border=true&bg_color=F8FAFC&title_color=0F172A&text_color=334155&icon_color=2563EB&ring_color=6366F1" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafiz-Subhan-Sabir&layout=compact&hide_border=true&bg_color=F8FAFC&title_color=0F172A&text_color=334155" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hafiz-Subhan-Sabir&hide_border=true&background=070B12&ring=22D3EE&fire=FB7185&currStreakLabel=E5E7EB&sideLabels=E5E7EB&dates=E5E7EB" alt="GitHub streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hafiz-Subhan-Sabir&hide_border=true&background=F8FAFC&stroke=E2E8F0&ring=2563EB&fire=F43F5E&currStreakLabel=0F172A&sideLabels=0F172A&dates=64748B" alt="Streak stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hafiz-Subhan-Sabir&theme=discord&no-frame=true&row=1&column=7&margin-w=12" alt="GitHub trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hafiz-Subhan-Sabir&theme=flat&no-frame=true&row=1&column=7&margin-w=10" alt="Trophies" />
 </p>
 
 <br/>
 
 ## Timeline
 
-| Year | Theme | Focus |
-| :--- | :--- | :--- |
-| **2026** | Systems + premium UI | AI‑integrated delivery, secure auth, polished motion |
-| **2025** | Secure systems | JWT/RBAC, payments, production dashboards |
-| **2024** | Frontend depth | GSAP/ScrollTrigger, scroll systems, performance UX |
-| **2023** | Backend foundations | Python frameworks, ORM, hashing, optimization |
-| **2022** | Core skills | Web fundamentals, debugging, systems thinking |
+<table>
+<tr><td><b>2026</b></td><td>AI‑powered full‑stack delivery — secure auth, integrations, premium UI + motion</td></tr>
+<tr><td><b>2025</b></td><td>Secure systems + payments + production dashboards</td></tr>
+<tr><td><b>2024</b></td><td>Product UI + scroll/motion systems (GSAP)</td></tr>
+<tr><td><b>2023</b></td><td>Backend foundations — Python frameworks, ORM, security basics</td></tr>
+<tr><td><b>2022</b></td><td>Web fundamentals + debugging + systems thinking</td></tr>
+</table>
 
 <br/>
 
 <div align="center">
-
-### Craft note
-
-**Functional is the baseline — clarity, speed, and trust are the product.**
-
+  <sub><b>Polished UX, fast delivery, engineering you can ship with confidence.</b></sub>
 </div>
