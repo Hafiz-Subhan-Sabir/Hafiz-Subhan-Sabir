@@ -2,8 +2,6 @@
 
 ### Hafiz Subhan
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&pause=1100&color=0F172A&center=true&vCenter=true&width=820&lines=Full%E2%80%91Stack+Software+Engineer;React+%2B+Next.js+%2B+TypeScript;Python+%2B+FastAPI+%2B+Secure+APIs;Product+UI+%2B+Performance+%2B+Reliability" alt="Headline" />
-
 **Full‑Stack Software Engineer** — AI‑integrated web products, polished UX, secure systems, and performance‑first delivery.
 
 <p>
@@ -25,7 +23,7 @@
     src="https://hafiz-subhan-portfolio.vercel.app/_next/image?url=%2Fport.png&amp;w=1080&amp;q=75"
     alt="Hafiz Subhan portrait"
     width="420"
-    height="230"
+    height="420"
     loading="lazy"
     decoding="async"
     style="max-width: 100%; height: 230px; object-fit: cover; object-position: center 6%; border-radius: 24px; border: 1px solid rgba(229, 231, 235, 0.8); color: transparent;"
