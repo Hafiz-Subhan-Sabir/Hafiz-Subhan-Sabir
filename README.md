@@ -22,11 +22,11 @@
 <img
   src="https://hafiz-subhan-portfolio.vercel.app/_next/image?url=%2Fvector.png&amp;w=48&amp;q=75"
   alt=""
-  width="28"
-  height="28"
+  width="180"
+  height="280"
   style="vertical-align: middle; border-radius: 8px;"
 />
-### Hafiz Subhan
+
 </a>
 
 **About**  
