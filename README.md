@@ -19,16 +19,14 @@
 <br/>
 
 <a href="https://hafiz-subhan-portfolio.vercel.app/" title="Open portfolio">
-  <img
-    align="right"
-    src="[https://hafiz-subhan-portfolio.vercel.app/_next/image](https://hafiz-subhan-portfolio.vercel.app/_next/image?url=%2Fvector.png&w=48&q=75)"
-    alt="Hafiz Subhan portrait"
-    width="420"
-    height="820"
-    loading="lazy"
-    decoding="async"
-    style="max-width: 100%; height: 230px; object-fit: cover; object-position: center 6%; border-radius: 24px; border: 1px solid rgba(229, 231, 235, 0.8); color: transparent;"
-  />
+<img
+  src="https://hafiz-subhan-portfolio.vercel.app/_next/image?url=%2Fvector.png&amp;w=48&amp;q=75"
+  alt=""
+  width="28"
+  height="28"
+  style="vertical-align: middle; border-radius: 8px;"
+/>
+### Hafiz Subhan
 </a>
 
 **About**  
