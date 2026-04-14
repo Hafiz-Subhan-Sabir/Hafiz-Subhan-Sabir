@@ -4,7 +4,7 @@
 
 ### Hafiz Subhan
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&pause=1100&color=0F172A&center=true&vCenter=true&width=860&lines=AI%E2%80%91Powered+Full%E2%80%91Stack+Engineer;React+%2B+Next.js+%2B+TypeScript;Python+%2B+FastAPI+%2B+Secure+Auth;Premium+UI+%2B+Motion+%2B+Performance" alt="Animated headline" />
+<img src="https://hafiz-subhan-portfolio.vercel.app/_next/image?url=%2Fport.png&w=750&q=75" alt="Animated headline" />
 
 <sub><b>Full‑Stack Software Engineer</b> — AI‑integrated products, polished UX, secure systems, performance‑first delivery.</sub>
 
