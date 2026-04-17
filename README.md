@@ -27,7 +27,7 @@
 
 ### What I do
 
-I ship end‑to‑end web products: solid UI architecture, motion where it earns its place (**GSAP**), secure auth (**JWT / RBAC**), and APIs (**FastAPI / Django / Flask**) with practical **LLM / CV** integrations when the product needs them.
+I ship end‑to‑end web products: solid UI architecture, motion where it earns its place (**React, Next, Typescript, TailwindCSS, GSAP**), secure auth (**JWT / RBAC**), and APIs (**FastAPI / Django / Flask**) with practical **LLM / CV** integrations when the product needs them.
 
 ### What I deliver
 
@@ -45,7 +45,7 @@ Production‑ready interfaces, clean architecture, performance‑minded UX, and 
 ---
 
 **About**  
-I ship end‑to‑end web products: solid UI architecture, motion where it earns its place (**GSAP**), secure auth (**JWT / RBAC**), and APIs (**FastAPI / Django / Flask**) with practical **LLM / CV** integrations when the product needs them.
+I ship end‑to‑end web products: solid UI architecture, motion where it earns its place (**React, Next, Typescript, TailwindCSS, GSAP**), secure auth (**JWT / RBAC**), and APIs (**FastAPI / Django / Flask**) with practical **LLM / CV** integrations when the product needs them.
 
 **Education**  
 BS Information Engineering Technology
