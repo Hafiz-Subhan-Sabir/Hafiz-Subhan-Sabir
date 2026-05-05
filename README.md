@@ -10,7 +10,7 @@
 
 <br/>
 
-
+<section align="center">
 # Hafiz Subhan
 
 ### What I do
@@ -39,7 +39,7 @@ I ship end‑to‑end web products: solid UI architecture, motion where it earns
 BS Information Engineering Technology
 
 <br clear="right"/>
-
+</section>
 ---
 
 ## Tech stack
