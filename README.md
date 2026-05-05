@@ -40,7 +40,6 @@ BS Information Engineering Technology
 
 <br clear="right"/>
 </section>
----
 
 ## Tech stack
 
