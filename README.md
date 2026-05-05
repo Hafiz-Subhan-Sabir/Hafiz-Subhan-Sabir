@@ -10,18 +10,6 @@
 
 <br/>
 
-<a href="https://hafiz-subhan-portfolio.vercel.app/" title="Open portfolio">
-  <img
-    align="right"
-    src="https://hafiz-subhan-portfolio.vercel.app/_next/image?url=%2Fvector.png&amp;w=1080&amp;q=75"
-    alt="Hafiz Subhan portrait"
-    width="380"
-    height="230"
-    loading="lazy"
-    decoding="async"
-    style="display:block;width:380px;height:230px;max-width:100%;object-fit:cover;object-position:center 6%;border-radius:24px;border:1px solid rgba(229,231,235,0.9);box-shadow:0 18px 40px rgba(15,23,42,0.10);"
-  />
-</a>
 
 # Hafiz Subhan
 
