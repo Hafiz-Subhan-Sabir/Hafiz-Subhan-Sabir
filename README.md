@@ -41,8 +41,7 @@ BS Information Engineering Technology
 
 </section>
 
-<details>
-<summary><b>⚡ Tech stack (click to expand)</b></summary>
+## Tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,django,flask,fastapi,postgresql,mysql,git,github,docker,vercel,linux" alt="Skills" />
@@ -55,10 +54,7 @@ BS Information Engineering Technology
   <img src="https://img.shields.io/badge/Delivery-Dashboards%20%26%20Data-39FF14?style=flat-square&logo=chartdotjs&logoColor=0D0221&labelColor=ECFDF5" alt="Dashboards" />
 </p>
 
-</details>
-
-<details>
-<summary><b>🧩 Selected work (click to expand)</b></summary>
+## Selected work
 
 <p align="center"><sub>Thumbnails open my portfolio projects section.</sub></p>
 
@@ -197,10 +193,7 @@ React · charts · data UX
 </tr>
 </table>
 
-</details>
-
-<details>
-<summary><b>📅 Timeline (click to expand)</b></summary>
+## Timeline
 
 | Year | Focus |
 | :--- | :--- |
@@ -210,10 +203,7 @@ React · charts · data UX
 | **2023** | Backend foundations — Python frameworks, ORM, security basics |
 | **2022** | Web fundamentals, debugging, systems thinking |
 
-</details>
-
-<details>
-<summary><b>📊 GitHub activity (click to expand)</b></summary>
+## GitHub activity
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hafiz-Subhan-Sabir&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D0221&amp;title_color=39FF14&amp;text_color=E5E7EB&amp;icon_color=00FFF7&amp;ring_color=FF00EA" alt="GitHub stats" />
@@ -228,10 +218,7 @@ React · charts · data UX
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hafiz-Subhan-Sabir&amp;custom_title=Contribution%20activity&amp;bg_color=0D0221&amp;color=E5E7EB&amp;line=39FF14&amp;point=00FFF7&amp;area_color=1A1033&amp;area=true&amp;hide_border=true" alt="Contribution graph" />
 </p>
 
-</details>
-
-<details>
-<summary><b>🏆 GitHub achievements (click to expand)</b></summary>
+## GitHub achievements
 
 <p align="center"><sub>Official profile achievements and contribution trophies (updates with your GitHub profile).</sub></p>
 
@@ -245,8 +232,6 @@ React · charts · data UX
 <p align="center">
   <a href="https://github.com/Hafiz-Subhan-Sabir?tab=achievements"><b>View all achievements on GitHub →</b></a>
 </p>
-
-</details>
 
 <div align="center">
   <sub><b>Clear product sense, disciplined engineering, dependable delivery.</b></sub>
